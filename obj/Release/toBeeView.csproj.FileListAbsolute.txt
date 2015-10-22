@@ -1,0 +1,8 @@
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\bin\Release\toBeeView.exe.config
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\bin\Release\toBeeView.exe
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\bin\Release\toBeeView.pdb
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\bin\Release\CommandLine.dll
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\bin\Release\CommandLine.xml
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\obj\Release\toBeeView.csprojResolveAssemblyReference.cache
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\obj\Release\toBeeView.exe
+C:\Users\aruiz\Documents\Visual Studio 2012\Projects\BeeView\toBeeView\obj\Release\toBeeView.pdb
