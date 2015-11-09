@@ -60,9 +60,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\compundEye\compoundEye.cs">
-      <Link>compoundEye.cs</Link>
-    </Compile>
+    <Compile Include="compoundEye.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
